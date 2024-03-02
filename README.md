@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="#">
     <img src="https://cdn.discordapp.com/attachments/1133410863823454338/1213355256902062141/medusita.png?ex=65f52c24&is=65e2b724&hm=e799fe61f8676927694124fc79765f0f1199d12c8903f85098aad7e253b07b1e&" alt="Logo" width="80" height="80">
   </a>
 
