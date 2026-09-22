@@ -1,5 +1,9 @@
 <h1 align="center">Ahoi Matei!</h1>
 
+<p align="center">
+  <sub>I am Eduardo Castro, a technology enthusiast passionate about building, learning and experimenting with software.</sub>
+</p>
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
