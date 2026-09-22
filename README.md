@@ -16,6 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![XHT](https://img.shields.io/badge/XHT-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cG9seWdvbiBmaWxsPSIjRkZGRkZGIiBwb2ludHM9IjEwLDE0IDMwLDE0IDgyLDg2IDgyLDk0IDcwLDk0IDMwLDU0IDMwLDQ2IDEwLDI2Ii8%2BCiAgPHBvbHlnb24gZmlsbD0iIzdDRkYwMCIgcG9pbnRzPSI3MCwxNCA5MCwxNCA5MCwyNiA2NCw1MiA1MCwzOCIvPgogIDxwb2x5Z29uIGZpbGw9IiM3Q0ZGMDAiIHBvaW50cz0iMTAsNjIgMzYsMzYgNDQsMzYgNDQsNDggMjQsNjggMTAsODIiLz4KPC9zdmc%2B)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
