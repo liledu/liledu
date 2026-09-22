@@ -1,4 +1,6 @@
-# Ahoi Matei
+<h1 align="center">Ahoi Matei!</h1>
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -22,3 +24,5 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=FFFFFF)
 ![WireGuard](https://img.shields.io/badge/WireGuard-000000?style=for-the-badge&logo=wireguard&logoColor=88171A)
+
+</div>
